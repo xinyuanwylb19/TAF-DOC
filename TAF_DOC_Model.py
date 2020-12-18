@@ -1,7 +1,7 @@
 # Process-based Terrestrial-aquatic DOC fluxes model (TAF-DOC)
 # Version 1
 # Xinyuan Wei
-# 2019.10.02
+# 2020.10.02
 
 import pandas as pd
 import numpy as np
