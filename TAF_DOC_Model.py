@@ -1,4 +1,4 @@
-# Process-based Terrestrial-aquatic DOC fluxes model (TAF-DOC)
+# Terrestrial-aquatic DOC fluxes model (TAF-DOC)
 # Version 1
 # Xinyuan Wei
 # 2020.10.02
